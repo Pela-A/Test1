@@ -12,7 +12,7 @@ Add **Markdown or React** files to `src/pages` to create a **standalone page**:
 
 ## Create your first React Page
 
-Create a file at `src/pages/my-react-page.js`:
+Create This better spawn in a file at `src/pages/my-react-page.js`:
 
 ```jsx title="src/pages/my-react-page.js"
 import React from 'react';
